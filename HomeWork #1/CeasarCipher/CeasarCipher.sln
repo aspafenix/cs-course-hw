@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ceasar.Tests", "Ceasar.Tests\Ceasar.Tests.csproj", "{4DA76BA0-AA4F-4D21-8C5F-CB9B427E70A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CeasarCipher", "CeasarCipher\CeasarCipher.csproj", "{C132A44D-9E4F-420F-864E-2287BB4BB403}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ceasar.Data", "Ceasar.Data\Ceasar.Data.csproj", "{48C7B7D1-DDFE-402B-B624-94310C19C5F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DA76BA0-AA4F-4D21-8C5F-CB9B427E70A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DA76BA0-AA4F-4D21-8C5F-CB9B427E70A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DA76BA0-AA4F-4D21-8C5F-CB9B427E70A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DA76BA0-AA4F-4D21-8C5F-CB9B427E70A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C132A44D-9E4F-420F-864E-2287BB4BB403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C132A44D-9E4F-420F-864E-2287BB4BB403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C132A44D-9E4F-420F-864E-2287BB4BB403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C132A44D-9E4F-420F-864E-2287BB4BB403}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48C7B7D1-DDFE-402B-B624-94310C19C5F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48C7B7D1-DDFE-402B-B624-94310C19C5F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48C7B7D1-DDFE-402B-B624-94310C19C5F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48C7B7D1-DDFE-402B-B624-94310C19C5F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
